@@ -1,5 +1,5 @@
 # Программирование на Python
-Решения задач курса Steoik Программирование на Python 67 (https://stepik.org/course/67).
+Решения задач курса Stepik Программирование на Python 67 (https://stepik.org/course/67).
 
 Задачи решались в июле 2020 года.
 
